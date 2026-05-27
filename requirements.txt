@@ -1,0 +1,52 @@
+# LLM Providers
+openai
+mistralai
+
+# LangChain core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# OpenAI integration
+langchain-openai
+
+# Mistral integration
+langchain-mistralai
+
+# Vector database
+chromadb
+faiss-cpu
+
+# Embeddings
+sentence-transformers
+
+# Document loaders
+pypdf
+pymupdf
+unstructured
+
+# Environment variables
+python-dotenv
+
+# Token counting
+tiktoken
+
+# API requests
+requests
+httpx
+
+# Data handling
+numpy
+pandas
+
+# Backend / API (optional but recommended)
+fastapi
+uvicorn
+
+# Utilities
+tqdm
+
+# Notebook support (optional)
+jupyter
+ipykernel
